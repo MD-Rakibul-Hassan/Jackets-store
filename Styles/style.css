@@ -1,0 +1,17 @@
+/* Montserrat External fonts form google font  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+/* Global styles for webpage  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Max-width of the webpage  */
+.container {
+    max-width: 1350px;
+    width: 100%;
+    margin: 0 auto;
+}
+.font-monstar {
+    font-family: Montserrat;
+}
